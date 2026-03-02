@@ -10,8 +10,8 @@ function App() {
       <Container>
         <Sidebar />
         <main>
-          <Sobre></Sobre>
-          <Projetos></Projetos>
+          <Sobre/>
+          <Projetos/>
         </main>
       </Container>
     </>
